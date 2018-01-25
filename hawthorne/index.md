@@ -10,6 +10,7 @@
  - [Incident Report](https://docs.google.com/forms/d/1iFisYRj1yElJtN5GEKk67KR6Q-vNtvZJgT6LZy37gtY/edit?usp=sharing)
  - [Discord Commands](https://docs.google.com/document/d/1n6klULSVvUypiT8Fwb4TPszYr4Pv0btfjW9RaWF2ac8/edit?usp=sharing)
  - [DM Application Form](https://docs.google.com/forms/d/e/1FAIpQLSf1pAeoEoQ-s7QTA2MMlqUVlwZW28Fx3LrgakZcMOzsKLUhBQ/viewform)
+ - [DM Guidelines](https://drive.google.com/file/d/1gZa58VSOFJnF0haeg9VzuMrFb-3P7VJ2/view?usp=sharing)
 
 ## Character Creation
  - [Character Creation Guidelines](https://docs.google.com/document/d/1ZmwGOPEAKjG91jxVY_RwqYkRo1Vz5lGPULn4ph0es24/edit)
