@@ -38,6 +38,7 @@ Welcome to the hawthorne-docs wiki!
 
 ### General
  - [Avrae Documentation](https://avrae.io)
+ - [Dicecloud Character Manager (Fully compatible with Avrae)](https://dicecloud.com/)
  - [Point Buy Calculator](http://chicken-dinner.com/5e/5e-point-buy.html)
 
 ### Encounters
