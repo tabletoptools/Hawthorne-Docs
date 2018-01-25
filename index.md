@@ -1,6 +1,4 @@
-Welcome to the hawthorne-docs wiki!
-
-# Sections of this Wiki
+# Link Hub
 
 ## General Links
  - [Introduction to Lerwick](https://drive.google.com/file/d/0Bz9v55gwZUzOLUgtZmhuMXVWNlE/view?usp=sharing)
