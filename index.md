@@ -19,8 +19,8 @@ Welcome to the hawthorne-docs wiki!
  - [Point Buy Calculator](http://chicken-dinner.com/5e/5e-point-buy.html)
 
 ## Rules
- - [Homebrew Item List](homebrew) | ([Source](https://docs.google.com/document/d/1OLbek7ZOng-ecG3ACTC3TWaN8Sluw4yyj7O0ERnWCXI/edit#))
- - [Housing Docs](housing) | ([Source](https://docs.google.com/document/d/1Elgc2YzDme3zxIBmrnkai7NmIYs5QIZNLJUiSlSioJI/edit))
+ - [Homebrew Item List](homebrew) ([Source](https://docs.google.com/document/d/1OLbek7ZOng-ecG3ACTC3TWaN8Sluw4yyj7O0ERnWCXI/edit#))
+ - [Housing Docs](housing) ([Source](https://docs.google.com/document/d/1Elgc2YzDme3zxIBmrnkai7NmIYs5QIZNLJUiSlSioJI/edit))
 
 ## Lore
  - [Introduction to Lerwick](https://drive.google.com/file/d/0Bz9v55gwZUzOLUgtZmhuMXVWNlE/view?usp=sharing)
