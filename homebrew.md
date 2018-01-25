@@ -2,6 +2,62 @@
 
 This is a list of items approved by the Hawthorne Guild Rules Team.
 
+# Index
+## Tier 1
+ - [Heroic Gauntlets of the Courageous](#heroic-gauntlets-of-the-courageous)
+ - [Diatryma Feather](#diatryma-feather)
+ - [Charm Weapon](#charm-weapon)
+ - [Wailing Maiden](#wailing-maiden)
+ - [Flame-Core Weapon](#flame-core-weapon)
+ - [Weapon of Recall](#weapon-of-recall)
+ - [Crystal-Core Weapon](#crystal-core-weapon)
+ - [Slanderous Skullcap](#slanderous-skullcap)
+ - [Delver's Dirk](#delvers-dirk)
+ - [Fatestrike Weapon](#fatestrike-weapon)
+ - [Lesser Chromatic Fang Weapon](#lesser-chromatic-fang-weapon)
+ - [Replenishing Aquarium Ball](#replenishing-aquarium-ball)
+ - [Gambler's Shells](#gamblers-shells)
+ - [Lloyd's Shield Ring](#lloyds-shield-ring)
+ - [Cooldown Cigar](#cooldown-cigar)
+## Tier 2
+ - [Medallion of Blessings](#medallion-of-blessings)
+ - [Runic Weapon (Template)](#runic-weapon-template)
+ - [Dagger of the Drider](#dagger-of-the-drider)
+ - [Ankheg Plate Armor](#ankheg-plate-armor)
+ - [Howell's Handled Mirror of Displacement](#howells-handled-mirror-of-displacement)
+ - [Rhahk'Zor's Hammer](#rahkzors-hammer)
+ - [Linza's Disgraced Cuirass](#linzas-disgraced-cuirass)
+ - [Lloyd's Sword Ring](#lloyds-sword-ring)
+ - [Dragonbinding Net](#dragonbinding-net)
+ - [Tome of Wordly Knowledge](#tome-of-wordly-knowledge)
+ - [The Blitzer](#the-blitzer)
+ - [Fortunate Shotgun](#fortunate-shotgun)
+ - [Channeler's Trident](#channelers-trident)
+ - [Rusted Iron Ring](#rusted-iron-ring)
+## Tier 3
+ - [Howell's Travelling Cabin](#howells-travelling-cabin)
+ - [Gauntlet of Transfusion](#gauntlet-of-transfusion)
+ - [Ring of Arbitration](#ring-of-arbitration)
+ - [Ghostgrip Gauntlets](#ghostgrip-gauntlets)
+ - [Akrisae's War Mace](#akrisaes-war-mace)
+ - [Bow of the Hunt](#bow-of-the-hunt)
+ - [Shortsword of the Twins](#shortsword-of-the-twins)
+ - [The Dawnstar](#the-dawnstar)
+ - [Linza's Shattered Shield](#linzas-shattered-shield)
+ - [Cracker](#cracker)
+ - [Whacker](#whacker)
+ - [Dragonbreath](#dragonbreath)
+ - [Clover](#clover)
+## Tier 4
+ - [Interrogator's Dagger](#interrogators-dagger)
+ - [Sun Lantern](#sun-lantern)
+ - [Shadow Mist](#shadow-mist)
+ - [Armor of the Vindicator](#armor-of-the-vindicator)
+ - [Indra Deus (Bow of Storms)](#indra-deus-bow-of-storms)
+ - [Axe of the Executioner](#axe-of-the-executioner)
+ - [Dark Hand](#dark-hand)
+ - [Eyes of the Arcane](#eyes-of-the-arcane)
+
 ***
 
 ## Heroic Gauntlets of the Courageous
