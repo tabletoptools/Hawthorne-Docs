@@ -40,6 +40,7 @@ Welcome to the hawthorne-docs wiki!
  - [Avrae Documentation](https://avrae.io)
  - [Dicecloud Character Manager (Fully compatible with Avrae)](https://dicecloud.com/)
  - [Point Buy Calculator](http://chicken-dinner.com/5e/5e-point-buy.html)
+ - [Spell Book Mobile App](https://play.google.com/store/apps/details?id=com.spellsdd5&hl=en)
 
 ### Encounters
  - [Monster Lookup (Monstercards.ca)](http://monstercards.ca/)
