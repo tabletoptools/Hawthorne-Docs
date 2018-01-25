@@ -49,3 +49,6 @@ Welcome to the hawthorne-docs wiki!
  - [Token Creator](http://rolladvantage.com/tokenstamp/)
  - [Fantasy Map Subreddit](https://www.reddit.com/r/FantasyMaps/)
  - [Character Drawing Subreddit](https://www.reddit.com/r/CharacterDrawing/)
+ 
+## Want to help?
+ - [Contribution Guide](contribute)
