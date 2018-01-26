@@ -27,5 +27,5 @@
 ## Lore
  - [Introduction to Lerwick](https://drive.google.com/file/d/0Bz9v55gwZUzOLUgtZmhuMXVWNlE/view?usp=sharing)
  - [Faerun Map](http://loremaps.azurewebsites.net/Maps/Faerun)
- - [Public laws (In Character)](https://cdn.discordapp.com/attachments/343427218250399745/377835247611412480/Public_Laws.pdf)
+ - [Public Laws](laws) ([Source](https://cdn.discordapp.com/attachments/343427218250399745/377835247611412480/Public_Laws.pdf))
  - [Lore Drive](https://drive.google.com/drive/folders/0B6xzT311Kcktb01qeWtmLS1EYkk)
