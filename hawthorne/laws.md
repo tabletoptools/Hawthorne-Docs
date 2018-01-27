@@ -13,13 +13,16 @@ Lerwick is a city on the wild frontier. Its laws are a bit more harsh than most 
 | 104  | Vandalism                         | To deliberately damage the town or private property without malicious intent. |
 | 105  | Trespass                          | To be in a private area which a person does not have verbal or written consent to. |
 | 106  | Battery                           | To use minor physical force against someone without the apparent intent to seriously injure them. |
-| 107  | Possession of an Un-Bonded Weapon | To be in the possession of a weapon, component pouch or focus that is not peace bonded into a sheathe. |
-| 108  | Magical Battery                   | To use minor magical ability against someone without the apparent intent to seriosuly injure them without consent. |
+| 107  | Possession of an Un-Bonded Weapon | To be in possession of a weapon, component pouch, or focus that is not peace bonded into a sheathe. |
+| 108  | Magical Battery                   | To use minor magical ability against someone without the apparent intent to seriously injure them without consent. |
 | 109  | Loitering                         | To remain about in a public area after a Guardsman or Watchman with sufficient suspicion of Intent asks you to move along. |
 | 110  | Unorganized Assembly              | To gather in groups of more than four in public without purpose other than to obstruct. |
-| 111  | Littering                         | Discarding refuse on city streets instead of designated containers. |
-| 112  | Disrespecting a City Official     | To openly and directly insult or demean a council member, Guardsman or Watchman. |
-| 113  | Causing a Disturbance             | To cause a public disturbance to the detriment of the contrinued running of day to day affairs of the citizens of Lerwick. |
+| 112  | Littering                         | Discarding refuse on city streets instead of designated containers. |
+| 113  | Disrespecting a City Official     | To openly and directly insult or demean a council member, Guardsman, or Watchman. |
+| 114  | Causing a Disturbance             | To cause a public disturbance to the detriment of the continued running of day to day affairs of the citizens of Lerwick. |
+
+
+
 ## Misdemeanors
 
 *Up to **a tenday** in jail and a **500GP** fine.*
