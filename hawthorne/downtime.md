@@ -13,6 +13,13 @@ You earn Downtime Points (DTP) at a rate of 5 days per 1 hour of any in-game ses
 
 You can use downtime points to perform certain tasks outside of sessions. You can use downtime points as any character you chose, however you cannot spend it for other people.
 
+- [Travel](#travel)
+- [Housing](#housing)
+- [Purchasing Items](#purchasing-items)
+- [Crafting](#crafting)
+- [Earning Gold](#earning-gold)
+- [Copying Spells](#copying-spells)
+
 ### Travel
 
 You can travel to another city or location using downtime points. DTP represent the travel time it takes for you to get there. Currently, the only city you can travel to is Waterdeep. It takes 15 days to get there, and 15 to get back to Lerwick.
