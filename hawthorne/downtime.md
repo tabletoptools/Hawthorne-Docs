@@ -27,9 +27,13 @@ In Waterdeep, you can:
 
 You can also use your downtime points to construct buildings or enhance them. Please see the [Housing Docs](housing) for more details.
 
+### Purchasing items
+
+You can buy any non-magical item worth less than 200GP in Lerwick directly. For any item above 200GP, you will have to go [travel to Waterdeep](#travel).
+
 ### Crafting
 
-You can use your DTP to craft items with tools you are proficient with. For every 25 gold you spend crafting, you also spend 1DTP. You can craft items for half the retail price of the item (as stated in the Player's Handbook). You have to have proficiency in the tool required to craft the item with. At the moment, you can only craft non-magical items and healing potions.
+You can use your DTP to craft items with tools you are proficient with. You can craft items for half the retail price of the item (as stated in the Player's Handbook). The amount of downtime points needed to craft an item is determined as follows: `Cost of Item / 25`. You have to have proficiency in the tool required to craft the item with. At the moment, you can only craft non-magical items and healing potions.
 
 ### Earning Gold
 
