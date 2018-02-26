@@ -9,7 +9,7 @@ This is a list of items approved by the Hawthorne Guild Rules Team.
  - [Charm Weapon](#charm-weapon)
  - [Wailing Maiden](#wailing-maiden)
  - [Flame-Core Weapon](#flame-core-weapon)
- - [Weapon of Recall](#weapon-of-recall)
+ - [Weapon of Recall](#weapon-of-recall-1-2)
  - [Crystal-Core Weapon](#crystal-core-weapon)
  - [Slanderous Skullcap](#slanderous-skullcap)
  - [Delver's Dirk](#delvers-dirk)
@@ -19,6 +19,7 @@ This is a list of items approved by the Hawthorne Guild Rules Team.
  - [Gambler's Shells](#gamblers-shells)
  - [Lloyd's Shield Ring](#lloyds-shield-ring)
  - [Cooldown Cigar](#cooldown-cigar)
+ - [Chef's Apron of Adventurous Palates](#chefs-apron-of-adventurous-palates)
 ## Tier 2
  - [Medallion of Blessings](#medallion-of-blessings)
  - [Runic Weapon (Template)](#runic-weapon-template)
@@ -34,6 +35,7 @@ This is a list of items approved by the Hawthorne Guild Rules Team.
  - [Fortunate Shotgun](#fortunate-shotgun)
  - [Channeler's Trident](#channelers-trident)
  - [Rusted Iron Ring](#rusted-iron-ring)
+ - [Conductor's Baton](#conductors-baton)
 ## Tier 3
  - [Howell's Travelling Cabin](#howells-travelling-cabin)
  - [Gauntlet of Transfusion](#gauntlet-of-transfusion)
@@ -48,6 +50,11 @@ This is a list of items approved by the Hawthorne Guild Rules Team.
  - [Whacker](#whacker)
  - [Dragonbreath](#dragonbreath)
  - [Clover](#clover)
+ - [Mortar Tube (T3)](#mortar-tube-123)
+ - [Everchill Armor](#everchill-armor)
+ - [Shadowberry](#shadowberry)
+ - [Orca Rifle](#orca-rifle)
+ - [Weapon of Recall +1 / +2](#weapon-of-recall-1-2)
 ## Tier 4
  - [Interrogator's Dagger](#interrogators-dagger)
  - [Sun Lantern](#sun-lantern)
@@ -57,6 +64,8 @@ This is a list of items approved by the Hawthorne Guild Rules Team.
  - [Axe of the Executioner](#axe-of-the-executioner)
  - [Dark Hand](#dark-hand)
  - [Eyes of the Arcane](#eyes-of-the-arcane)
+ - [Mortar Tube (T4)](#mortar-tube-123)
+ - [Fulguris](#fulguris)
 
 ***
 
@@ -88,7 +97,7 @@ You may use an action to blow on this feather sending a large cloud of feathers 
 **Weapon (Any), Uncommon**  
 *T1, 250GP + Weapon Cost*
 
-This bejeweled charm in the shape of a weapon can be fashionably worn as jewelry. While holding the charm you may speak the command word to grow the charm to a fullsize version of the weapon. While holding the charm you may  use a bonus action to return the weapons to normal size. While they are jewlery they detect as non-magical to  the  Detect Magic spell.
+This bejeweled charm in the shape of a weapon can be fashionably worn as jewelry. While holding the charm you may speak the command word to grow the charm to a full size version of the weapon. While holding the charm you may  use a bonus action to return the weapons to normal size. While they are jewelry they detect as non-magical to  the  Detect Magic spell.
 
 ***
 
@@ -110,9 +119,9 @@ This weapon is warm to the touch, the pommel is a cut ruby, it’s facets giving
 
 ***
 
-## Weapon of Recall
+## Weapon of Recall / +1 / +2
 **Weapon (Any weapon with the Thrown  property), Uncommon (requires attunement)**  
-*T1, 500GP*
+*T1/T3/T3, 500GP/1200GP/5000GP*
 
 Each time you throw the weapon while making a ranged weapon attack, it flies back to your hand after the Attack. If you don't have a hand free, the weapon lands at your feet.
 
@@ -309,7 +318,7 @@ This clear, 1-inch-thick glass orb is the size of a large melon and hangs from a
 **Armor (Shield), Rare**  
 *T2, 900GP*
 
-This shield is simply a large bath mirror, the sides and back reinforced with metal to hold it  sturdy. The reflective surface shimmers and warps, showing no image but a starry silvery backdrop with eddies of lights and cannot be tarnished or scratched. While wielding the shield, when the wielder makes a successful shove to prone action, he may force the target to make a DC 12 Charisma saving throw. If the target fails, they are forced into the Astral plane for 1d2 rounds, where they may position themselves to re-appear anywhere within` 10 feet of the shield that is currently not occupied. After this effect has been successfully used, it may not be used again until after a short  rest.
+This shield is simply a large bath mirror, the sides and back reinforced with metal to hold it  sturdy. The reflective surface shimmers and warps, showing no image but a starry silvery backdrop with eddies of lights and cannot be tarnished or scratched. While wielding the shield, when the wielder makes a successful shove to prone action, he may force the target to make a DC 12 Charisma saving throw. If the target fails, they are forced into the Astral plane for 1d2 rounds, where they may position themselves to re-appear anywhere within 10 feet of the shield that is currently not occupied. After this effect has been successfully used, it may not be used again until after a short rest.
 
 ***
 
@@ -504,8 +513,8 @@ On a critical hit with this firearm, you do not take damage from the Scatter pro
 ***
 
 ## Channeler's Trident
-**Weapon (Trident), Rare**  
-*T2, Price Unknown*
+**Weapon (Trident), Rare (requires attunement)**  
+*T2, 1000GP*
 
 While wielding this trident you can use an action to cast Crusader's Mantle. After you have used this property it cannot be used again until the next dawn.
 
@@ -555,3 +564,62 @@ While attuned to this mask, you may use any Spell Scroll regardless of their spe
 *T1, 300GP*
 
 This cigar is marked with a mystical rune that was enchanted by an ancient bard. When smoked, it gives off luxurious fumes that seem to rejuvenate your body on a deep, physical level. If you spend 10 minutes smoking this cigar in quiet contemplation, you gain the benefits of a short rest. Once you use this item, the magic rune burns out and what's left of the cigar disintegrates
+
+***
+
+## Conductor's Baton
+**Wondrous Item, Rare (requires attunement by a bard)**  
+*T2, 1200GP*
+
+This small, wooden stick is 12" long and tapers slightly towards the tip. At the other end it widens to a small bulb sufficient to counterbalance the shaft. Once attuned by a bard, as an action, the baton can be used to cast Silence and Enthrall. Once the instrument has been used to cast these spells, it can’t be used to cast them again until the next dawn. Additionally, if you spend one minute conducting the motions of a song, the baton can be used to make a number of mundane musical instruments you can see equal to twice your bard level, start playing themselves. This effect requires concentration and the effect ends if concentration is broken.
+
+***
+
+## Chef's Apron of Adventurous Palates 
+**Wondrous Item, Uncommon**  
+*T1, 550GP*
+
+While wearing this apron, you gain +1 to skill checks involving the harvesting and preparation of edible materials from creatures.
+
+***
+
+## Mortar Tube +1/2/3
+**Wondrous Item, Uncommon (requires attunement by an apothecary)**  
+*T3/T3/T4, 1400GP/4200GP/10000GP*
+
+While attuned to this item you can shape your bomb concoctions in it to launch them further.  You have a +1/2/3 bonus to attack roll and damage rolls of your bomb concoctions and the range of your bomb concoctions becomes 60feet.  
+(Be aware that as per RAW, the bonus to damage rolls would not apply to the damage that creatures take when making the saving throw, see the rulings on Poison damage.)
+
+***
+
+## Fulguris
+**Warhammer, Legendary (requires attunement by a good creature)**  
+*T4, 10000 GP*
+
+You have a +1 bonus to Attack and Damage Rolls made with this weapon.  
+When you hit with an Attack using this magic hammer, the target takes an extra 1d8 lightning damage.  
+*Thrown Weapon*: This weapon has the Thrown property, with a normal range of 20 feet and a long range of 60 feet. Each time you throw the weapon, it flies back to your hand after the Attack. If you don't have a hand free, the weapon lands at your feet.
+
+***
+
+## Everchill Armor
+**Armor (Any Metal Armor), Very Rare**  
+*T3, 1500GP*
+
+This magic armor, infused with a tiny shard of never melting ice,  always leaves you feeling pleasantly cool, no matter what environment you are in. This armor cannot be subjected to any effects that cause it to become hot enough to deal damage to you, such as the heat metal spell.
+
+***
+
+## Shadowberry
+**Wondrous Item, Rare**  
+*T3, 1000GP*
+
+When you use an action to consume this dark and sour berry, you gain the ability to see in magical and nonmagical darkness out to 60 feet for 1 hour.
+
+***
+
+## Orca Rifle
+**Weapon (Rifle), Rare (requires attunement)**  
+*T3, Price Unknown*
+
+This rifle has been artfully crafted so that its appearance resembles that of a great undersea predator. You get a +1 bonus to attack and damage rolls you make using this weapon. If you use this weapon underwater, attacks with it do not automatically miss past its normal range, and you do not get disadvantage on attack rolls against creatures within its normal range. While attuned, if you do not already have a swim speed, you gain a swim speed of 20 feet.
