@@ -9,7 +9,7 @@ This is a list of items approved by the Hawthorne Guild Rules Team.
  - [Charm Weapon](#charm-weapon)
  - [Wailing Maiden](#wailing-maiden)
  - [Flame-Core Weapon](#flame-core-weapon)
- - [Weapon of Recall](#weapon-of-recall-1-2)
+ - [Weapon of Recall](#weapon-of-recall--12)
  - [Crystal-Core Weapon](#crystal-core-weapon)
  - [Slanderous Skullcap](#slanderous-skullcap)
  - [Delver's Dirk](#delvers-dirk)
@@ -54,7 +54,7 @@ This is a list of items approved by the Hawthorne Guild Rules Team.
  - [Everchill Armor](#everchill-armor)
  - [Shadowberry](#shadowberry)
  - [Orca Rifle](#orca-rifle)
- - [Weapon of Recall +1 / +2](#weapon-of-recall-1-2)
+ - [Weapon of Recall +1 / +2](#weapon-of-recall--12)
 ## Tier 4
  - [Interrogator's Dagger](#interrogators-dagger)
  - [Sun Lantern](#sun-lantern)
@@ -119,7 +119,7 @@ This weapon is warm to the touch, the pommel is a cut ruby, it’s facets giving
 
 ***
 
-## Weapon of Recall / +1 / +2
+## Weapon of Recall / +1/2
 **Weapon (Any weapon with the Thrown  property), Uncommon (requires attunement)**  
 *T1/T3/T3, 500GP/1200GP/5000GP*
 
