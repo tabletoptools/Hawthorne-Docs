@@ -10,5 +10,5 @@
 1. Send me a message on discord (DM.xp-raptor#7843) so I can add you to this repository.
 2. You will be able to make changes to this repository directly.
 
-## The lazy
+## The Lazy
 1. Send me a message on discord with the improvement you recommend.
