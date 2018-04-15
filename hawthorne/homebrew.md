@@ -36,6 +36,7 @@ This is a list of items approved by the Hawthorne Guild Rules Team.
  - [Channeler's Trident](#channelers-trident)
  - [Rusted Iron Ring](#rusted-iron-ring)
  - [Conductor's Baton](#conductors-baton)
+ - [Dusty Conch Shell](#dusty-conch-shell)
 ## Tier 3
  - [Howell's Travelling Cabin](#howells-travelling-cabin)
  - [Gauntlet of Transfusion](#gauntlet-of-transfusion)
@@ -623,3 +624,13 @@ When you use an action to consume this dark and sour berry, you gain the ability
 *T3, Price Unknown*
 
 This rifle has been artfully crafted so that its appearance resembles that of a great undersea predator. You get a +1 bonus to attack and damage rolls you make using this weapon. If you use this weapon underwater, attacks with it do not automatically miss past its normal range, and you do not get disadvantage on attack rolls against creatures within its normal range. While attuned, if you do not already have a swim speed, you gain a swim speed of 20 feet.
+
+***
+
+## Dusty Conch Shell
+**Wondrous Item, Rare**
+*T2, 700GP*
+Blowing this shell will magically summon a dust mephit, who will rise out of the nearest patch of exposed earth. If there is no exposed earth within sight of the blower, it will not be summoned.
+It will remain while the blower concentrates (as if concentrating on a spell), to a maximum of 1 minute or until he is killed. It then returns to its home – if it is killed, it cannot be summoned again. 
+
+While summoned, it is friendly to the blower and his companions. The mephit does not like combat, but will fight if asked. After it departs, it can't be summoned again for a full day. If it was involved in combat, it can’t be summoned again for a full tenday.
