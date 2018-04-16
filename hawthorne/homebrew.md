@@ -628,8 +628,9 @@ This rifle has been artfully crafted so that its appearance resembles that of a 
 ***
 
 ## Dusty Conch Shell
-**Wondrous Item, Rare**
+**Wondrous Item, Rare**  
 *T2, 700GP*
+
 Blowing this shell will magically summon a dust mephit, who will rise out of the nearest patch of exposed earth. If there is no exposed earth within sight of the blower, it will not be summoned.
 It will remain while the blower concentrates (as if concentrating on a spell), to a maximum of 1 minute or until he is killed. It then returns to its home – if it is killed, it cannot be summoned again. 
 
