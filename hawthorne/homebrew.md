@@ -56,6 +56,7 @@ This is a list of items approved by the Hawthorne Guild Rules Team.
  - [Shadowberry](#shadowberry)
  - [Orca Rifle](#orca-rifle)
  - [Weapon of Recall +1 / +2](#weapon-of-recall--12)
+ - [Gauntlets of the Dragon](#gauntlets-of-the-dragon)
 ## Tier 4
  - [Interrogator's Dagger](#interrogators-dagger)
  - [Sun Lantern](#sun-lantern)
@@ -635,3 +636,19 @@ Blowing this shell will magically summon a dust mephit, who will rise out of the
 It will remain while the blower concentrates (as if concentrating on a spell), to a maximum of 1 minute or until he is killed. It then returns to its home – if it is killed, it cannot be summoned again. 
 
 While summoned, it is friendly to the blower and his companions. The mephit does not like combat, but will fight if asked. After it departs, it can't be summoned again for a full day. If it was involved in combat, it can’t be summoned again for a full tenday.
+
+***
+
+## Gauntlets of the Dragon
+**Wondrous Item, Rare**  
+*T3, 2500GP*
+
+A pair of lightweight gauntlets each in the shape of a dragon's head and modelled after one of the many types of dragons which exist. While wearing these gauntlets you gain a +1 bonus to the attack rolls and the damage rolls you make with unarmed strikes and natural weapons. Such attacks are considered to be magical. Your unarmed strike damage deals a different type other than bludgeoning that is dependent on the dragon it was modelled after.
+
+| Dragon Color       | Damage Type |
+|--------------------|-------------|
+| Black / Copper     | Acid        |
+| White / Silver     | Cold        |
+| Red / Brass / Gold | Fire        |
+| Blue / Bronze      | Lightning   |
+| Green              | Poison      |
