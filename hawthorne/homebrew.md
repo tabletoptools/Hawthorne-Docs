@@ -37,6 +37,7 @@ This is a list of items approved by the Hawthorne Guild Rules Team.
  - [Rusted Iron Ring](#rusted-iron-ring)
  - [Conductor's Baton](#conductors-baton)
  - [Dusty Conch Shell](#dusty-conch-shell)
+ - [Shining Knight's Ring](#shining-knights-ring)
 ## Tier 3
  - [Howell's Travelling Cabin](#howells-travelling-cabin)
  - [Gauntlet of Transfusion](#gauntlet-of-transfusion)
@@ -635,3 +636,11 @@ Blowing this shell will magically summon a dust mephit, who will rise out of the
 It will remain while the blower concentrates (as if concentrating on a spell), to a maximum of 1 minute or until he is killed. It then returns to its home – if it is killed, it cannot be summoned again. 
 
 While summoned, it is friendly to the blower and his companions. The mephit does not like combat, but will fight if asked. After it departs, it can't be summoned again for a full day. If it was involved in combat, it can’t be summoned again for a full tenday.
+
+***
+
+## Shining Knight's Ring
+**Wondrous Item, Rare (requires attunement by a Paladin)**  
+*T2, 1500GP*
+
+In its normal state, the shining knight’s ring resembles a simple gold band. While attuned to by a paladin, the ring forms a symbol of the paladin’s oath along the band. At will, the paladin can spend an action to make him or herself presentable as if using prestidigitation to clean up his or her clothing, skin, hair, and armor. Additionally, find steed and find greater steed are always considered prepared spells for the attuned paladin.
