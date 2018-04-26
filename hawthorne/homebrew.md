@@ -37,6 +37,7 @@ This is a list of items approved by the Hawthorne Guild Rules Team.
  - [Rusted Iron Ring](#rusted-iron-ring)
  - [Conductor's Baton](#conductors-baton)
  - [Dusty Conch Shell](#dusty-conch-shell)
+ - [Shining Knight's Ring](#shining-knights-ring)
 ## Tier 3
  - [Howell's Travelling Cabin](#howells-travelling-cabin)
  - [Gauntlet of Transfusion](#gauntlet-of-transfusion)
@@ -652,3 +653,11 @@ A pair of lightweight gauntlets each in the shape of a dragon's head and modelle
 | Red / Brass / Gold | Fire        |
 | Blue / Bronze      | Lightning   |
 | Green              | Poison      |
+
+***
+
+## Shining Knight's Ring
+**Wondrous Item, Rare (requires attunement by a Paladin)**  
+*T2, 1500GP*
+
+In its normal state, the shining knight’s ring resembles a simple gold band. While attuned to by a paladin, the ring forms a symbol of the paladin’s oath along the band. At will, the paladin can spend an action to make him or herself presentable as if using prestidigitation to clean up his or her clothing, skin, hair, and armor. Additionally, find steed and find greater steed are always considered prepared spells for the attuned paladin.
