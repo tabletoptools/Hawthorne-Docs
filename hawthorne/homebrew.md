@@ -31,9 +31,9 @@ This is a list of items approved by the Hawthorne Guild Rules Team.
  - [Lloyd's Sword Ring](#lloyds-sword-ring)
  - [Dragonbinding Net](#dragonbinding-net)
  - [Tome of Wordly Knowledge](#tome-of-wordly-knowledge)
- - [The Blitzer](#the-blitzer)
+ - [Firestorm Weapon](#firestorm-weapon)
  - [Fortunate Shotgun](#fortunate-shotgun)
- - [Channeler's Trident](#channelers-trident)
+ - [Crusader's Armanent](#crusaders-armanent)
  - [Rusted Iron Ring](#rusted-iron-ring)
  - [Conductor's Baton](#conductors-baton)
  - [Dusty Conch Shell](#dusty-conch-shell)
@@ -492,8 +492,8 @@ A fierce, draconic design adorns this gun, and it glows with the power like the 
 
 ***
 
-## The Blitzer
-**Weapon (Greataxe), Uncommon (requires attunement)**  
+## Firestorm Weapon
+**Weapon (Any Weapon with the heavy and two-handed properties), Uncommon (requires attunement)**  
 *T2, 1000GP*
 
 This large blackened axe, the namesake of a relentless battle maiden, is made from darksteel and resembles the head of a firesnake. There is a single word etched in Ignan on the head that reads "Firestarter".
@@ -502,7 +502,7 @@ When you hit with an attack using this magic axe, the target takes an extra 1d4 
  
 The axe sheds bright light in a 20-foot radius and dim light for an additional 20 feet.
  
-When you roll a 20 on an attack roll made with this weapon, you can attempt to make a Firestorm strike on a creature when you hit. The creature must succeed a DC 15 Dexterity saving throw or take an additional 8d4 fire damage.
+When you attack a creature with this magic weapon and roll a 20 on the attack roll, that creature must make a DC 15 Dexterity saving throw. The creature takes 6d6 fire damage on a failed save, or half as much damage on a successful one.
 
 ***
 
@@ -515,8 +515,8 @@ On a critical hit with this firearm, you do not take damage from the Scatter pro
 
 ***
 
-## Channeler's Trident
-**Weapon (Trident), Rare (requires attunement)**  
+## Crusader's Armanent
+**Weapon (Any Weapon), Rare (requires attunement)**  
 *T2, 1000GP*
 
 While wielding this trident you can use an action to cast Crusader's Mantle. After you have used this property it cannot be used again until the next dawn.
