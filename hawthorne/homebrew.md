@@ -625,15 +625,15 @@ These obsidian tablets come as a bonded pair. 3 times per day, each tablet can t
 **Wondrous Item, T3 (requires attunement)**  
 
 While wearing this belt, you gain the following benefits:
-• Your Dexterity score increases by 2, to a maximum of 20.
-• You have advantage on Charisma (Persuasion) checks made to interact with elves.
+- Your Dexterity score increases by 2, to a maximum of 20.
+- You have advantage on Charisma (Persuasion) checks made to interact with elves.
 
 In addition, while attuned to the belt, you have a 50 percent chance each day at dawn of shedding all body hair.
 
 If you aren't an elf, you gain the following additional benefits while wearing the belt:
-• You have advantage on saving throws against being Charmed, and magic can’t put you to sleep.
-• You have Darkvision out to a range of 60 feet.
-• You can speak, read, and write Elvish.
+- You have advantage on saving throws against being Charmed, and magic can’t put you to sleep.
+- You have Darkvision out to a range of 60 feet.
+- You can speak, read, and write Elvish.
 
 ***
 
@@ -641,15 +641,15 @@ If you aren't an elf, you gain the following additional benefits while wearing t
 **Wondrous Item, T3 (requires attunement)**  
 
 While wearing this belt, you gain the following benefits:
-• Your Wisdom score increases by 2, to a maximum of 20.
-• You have advantage on Charisma (Persuasion) checks made to interact with firbolgs.
+- Your Wisdom score increases by 2, to a maximum of 20.
+- You have advantage on Charisma (Persuasion) checks made to interact with firbolgs.
 
 In addition, while attuned to the belt, you have a 50 percent chance each day at dawn of growing by one inch, provided you are under 8 feet tall. You cannot grow more than one foot as a result of this feature.
 
 If you aren't a firbolg, you gain the following additional benefits while wearing the belt:
-• As a bonus action, you can magically turn invisible until the start of your next turn or until you attack, make a damage roll, or force someone to make a saving throw. Once you use this trait, you can’t use it again until you finish a short or long rest.
-• You have the ability to communicate in a limited manner with beasts and plants. They can understand the meaning of your words, though you have no special ability to understand them in return. You have advantage on all Charisma checks you make to influence them.
-• You can speak, read, and write Giant and Elvish.
+- As a bonus action, you can magically turn invisible until the start of your next turn or until you attack, make a damage roll, or force someone to make a saving throw. Once you use this trait, you can’t use it again until you finish a short or long rest.
+- You have the ability to communicate in a limited manner with beasts and plants. They can understand the meaning of your words, though you have no special ability to understand them in return. You have advantage on all Charisma checks you make to influence them.
+- You can speak, read, and write Giant and Elvish.
 
 ***
 
