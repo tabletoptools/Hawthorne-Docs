@@ -146,14 +146,14 @@ As a bonus action, you can speak the gauntlet’s command word to use the effect
 The Ring of Arbitration is a golden ring set with a heart-shaped ruby. When a Ring of Arbitration is created, it is permanently paired with a matching ring. For the effects of the ring to work, someone else must be wearing the matched ring.
 
 While each of you are attuned to and wearing the rings, and on the same plane within 100 feet of each other , the following effects are all true.
--While wearing this ring and attuned to it, if the paired ring is also attuned to a creature you have resistance to all damage. 
--When you take damage, the creature attuned to the paired ring takes damage equal in type and amount as you took.
--If you would take damage as a result of the other wearer taking damage, you cannot reduce that damage in any way.
--While either of you has more than 0 hit points, falling to 0 hit points does not cause you to fall unconscious, however you do make death saving throws at the end of your turn.
--If you succeed in 3 saving throws in this manner, you fall unconscious but stabilized and if you fail 3 saving throws, you die.
--If either of you would receive healing from magic or a potion, both of you receive half the number of hit points, up to your maximum number of hit points. Half hit points cannot be shared and must go to one or the other of you, as decided by your dungeon master.
--If the wearer of either ring dies, the ruby in the other turns black.
--While in darkness, either magical or non-magical, you can see your partner as a softly glowing outline.
+- While wearing this ring and attuned to it, if the paired ring is also attuned to a creature you have resistance to all damage. 
+- When you take damage, the creature attuned to the paired ring takes damage equal in type and amount as you took.
+- If you would take damage as a result of the other wearer taking damage, you cannot reduce that damage in any way.
+- While either of you has more than 0 hit points, falling to 0 hit points does not cause you to fall unconscious, however you do make death saving throws at the end of your turn.
+- If you succeed in 3 saving throws in this manner, you fall unconscious but stabilized and if you fail 3 saving throws, you die.
+- If either of you would receive healing from magic or a potion, both of you receive half the number of hit points, up to your maximum number of hit points. Half hit points cannot be shared and must go to one or the other of you, as decided by your dungeon master.
+- If the wearer of either ring dies, the ruby in the other turns black.
+- While in darkness, either magical or non-magical, you can see your partner as a softly glowing outline.
 
 **THIS ITEM IS CURSED:**
  - When two creatures attune to the paired rings they cannot be removed until one or both of the creatures die, at which point the curse ends until two creatures are again attuned to the paired rings.
