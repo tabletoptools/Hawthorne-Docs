@@ -681,7 +681,7 @@ This weapon can also be used as a bardic focus while attuned, as if orchestratin
 ***
 
 ## Staff of Life Overflowing
-**Staff, T2 (requires attunement)**  
+**Staff, T2 (requires attunement by a spellcaster)**  
 
 This staff has 6 charges. While holding this staff and casting a spell that restores Hit Points to a single target, you may use your reaction to spend a charge to add an extra 1d6 Hit Points of healing to the target of the spell.
 
