@@ -660,4 +660,4 @@ A pair of lightweight gauntlets each in the shape of a dragon's head and modelle
 **Wondrous Item, Rare (requires attunement by a Paladin)**  
 *T2, 1500GP*
 
-In its normal state, the shining knight’s ring resembles a simple gold band. While attuned to by a paladin, the ring forms a symbol of the paladin’s oath along the band. At will, the paladin can spend an action to make him or herself presentable as if using prestidigitation to clean up his or her clothing, skin, hair, and armor. Additionally, find steed and find greater steed are always considered prepared spells for the attuned paladin.
+In its normal state, the shining knight’s ring resembles a simple gold band. While attuned to by a paladin, the ring forms a symbol of the paladin’s oath along the band. At will, the paladin can spend an action to make him or herself presentable as if using prestidigitation to clean up his or her clothing, skin, hair, and armor. Additionally, find steed and find greater steed are always considered prepared spells at the appropriate paladin levels for the attuned paladin.
