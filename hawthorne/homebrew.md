@@ -58,11 +58,11 @@ This is a list of items approved by the Hawthorne Guild Rules Team.
  - [Orca Rifle](#orca-rifle)
  - [Weapon of Recall +1 / +2](#weapon-of-recall--12)
  - [Gauntlets of the Dragon](#gauntlets-of-the-dragon)
+ - [Phornix Armor](#phoenix-armor)
 ## Tier 4
  - [Interrogator's Dagger](#interrogators-dagger)
  - [Sun Lantern](#sun-lantern)
  - [Shadow Mist](#shadow-mist)
- - [Armor of the Vindicator](#armor-of-the-vindicator)
  - [Indra Deus (Bow of Storms)](#indra-deus-bow-of-storms)
  - [Axe of the Executioner](#axe-of-the-executioner)
  - [Dark Hand](#dark-hand)
@@ -661,3 +661,13 @@ A pair of lightweight gauntlets each in the shape of a dragon's head and modelle
 *T2, 1500GP*
 
 In its normal state, the shining knight’s ring resembles a simple gold band. While attuned to by a paladin, the ring forms a symbol of the paladin’s oath along the band. At will, the paladin can spend an action to make him or herself presentable as if using prestidigitation to clean up his or her clothing, skin, hair, and armor. Additionally, find steed and find greater steed are always considered prepared spells at the appropriate paladin levels for the attuned paladin.
+
+***
+
+## Phoenix Armor
+**Armor (Plate) (requires attunement)**  
+*T3*
+
+While wearing this armor you have resistance to fire damage.
+
+If you are reduced to 0 hit points, you can use your reaction to instead drop to 1 hit point, and then you can immediately move up to your movement speed without provoking opportunity attacks and can make one melee weapon attack with advantage. Once this property of the armor has been used, it can't be used again until the next dawn.
