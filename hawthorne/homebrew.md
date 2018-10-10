@@ -58,7 +58,7 @@ This is a list of items approved by the Hawthorne Guild Rules Team.
  - [Orca Rifle](#orca-rifle)
  - [Weapon of Recall +1 / +2](#weapon-of-recall--12)
  - [Gauntlets of the Dragon](#gauntlets-of-the-dragon)
- - [Phornix Armor](#phoenix-armor)
+ - [Phoenix Armor](#phoenix-armor)
 ## Tier 4
  - [Interrogator's Dagger](#interrogators-dagger)
  - [Sun Lantern](#sun-lantern)
