@@ -429,18 +429,6 @@ While Attuned to Cracker you can use two-weapon fighting with this weapon.
 
 ***
 
-## Armor of the Vindicator
-**Armor (Plate), Legendary (requires attunement)**  
-*T4, 10000GP*
-
-An ancient set of armor fashioned from solarian truesteel and socketed with numerous clear gemstones. The armour shines with a silvery gleam, and radiates an aura of determination.
-
-While wearing this armor you have resistance to fire damage.
-
-The pertinacious will of the forgotten hero that wore this armour still lingers within it. If you are reduced to 0 hit points, you can use your reaction to draw on that tenacity. You are instead reduced to 1 hit point, you can immediately move up to your movement speed without provoking opportunity attacks, and you can make one melee weapon attack with advantage. Once this property of the armor has been used, it can't be used again until the next dawn.
-
-***
-
 ## Indra Deus (Bow of Storms)
 **Longbow, Legendary (requires attunement)**  
 *T4, 10000 GP*
