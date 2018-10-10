@@ -49,7 +49,7 @@ This is a list of items approved by the Hawthorne Guild Rules Team.
  - [Dragonbreath](#dragonbreath)
  - [Firestorm Weapon](#firestorm-weapon)
  - [Fortunate Shotgun](#fortunate-shotgun)
- - [Crusader's Armanent](#crusaders-armanent)
+ - [Crusader's Armament](#crusaders-armament)
  - [Clover](#clover)
  - [Conductor's Baton](#conductors-baton)
  - [Shadowberry](#shadowberry)
@@ -525,11 +525,11 @@ On a critical hit with this firearm, you do not take damage from the Scatter pro
 
 ***
 
-## Crusader's Armanent
+## Crusader's Armament
 **Weapon (Any Weapon) (requires attunement)**  
 *T2*
 
-While wielding this trident you can use an action to cast Crusader's Mantle. After you have used this property it cannot be used again until the next dawn.
+While wielding this weapon you can use an action to cast Crusader's Mantle. After you have used this property it cannot be used again until the next dawn.
 
 ***
 
