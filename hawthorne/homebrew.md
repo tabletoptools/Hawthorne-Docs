@@ -671,3 +671,5 @@ In its normal state, the shining knight’s ring resembles a simple gold band. W
 While wearing this armor you have resistance to fire damage.
 
 If you are reduced to 0 hit points, you can use your reaction to instead drop to 1 hit point, and then you can immediately move up to your movement speed without provoking opportunity attacks and can make one melee weapon attack with advantage. Once this property of the armor has been used, it can't be used again until the next dawn.
+
+***
