@@ -61,6 +61,7 @@ This is a list of items approved by the Hawthorne Guild Rules Team.
  - [Spider's Prey](#spiders-prey)
  - [Weapon of Song +1 / +2 / +3](#weapon-of-song--123)
  - [Staff of Life Overflowing](#staff-of-life-overflowing)
+ - [Weapon of Slaughter](#weapon-of-slaughter)
 ## Tier 3
  - [Interrogator's Dagger](#interrogators-dagger)
  - [Bow of the Hunt](#bow-of-the-hunt)
@@ -756,5 +757,13 @@ This staff has 6 charges. While holding this staff and casting a spell that rest
 While holding this staff and casting a spell that restores Hit Points to multiple targets, you may use your reaction to spend 2 charges to add an extra 1d4 Hit Points of healing to each target of that spell.
 
 This staff regains 1d4+2 charges each dawn. If the last charge is expended, roll a d20. One a 1, the staff disappears into motes of light, destroying it.
+
+***
+
+## Weapon of Slaughter
+**Weapon (any melee)**  
+*T2*
+
+When you reduce a creature to 0 hit points with this weapon, you may use a bonus action to move up to your speed toward another hostile creature that you can see. Your next attack with this weapon has advantage.
 
 ***
