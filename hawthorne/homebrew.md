@@ -63,6 +63,7 @@ This is a list of items approved by the Hawthorne Guild Rules Team.
  - [Staff of Life Overflowing](#staff-of-life-overflowing)
  - [Weapon of Slaughter](#weapon-of-slaughter)
  - [Peacemaker](#peacemaker)
+ - [Corrosive Crackshot](#corrosive-crackshot)
 ## Tier 3
  - [Interrogator's Dagger](#interrogators-dagger)
  - [Bow of the Hunt](#bow-of-the-hunt)
@@ -75,6 +76,7 @@ This is a list of items approved by the Hawthorne Guild Rules Team.
  - [Fulguris](#fulguris)
  - [Belt of Elvenkind](#belt-of-elvenkind)
  - [Belt of the Firbolg](#belt-of-the-firbolg)
+ - [Breacher](#breacher)
 ## Tier 4
 ## Tier 3+
  - [Indra Deus (Bow of Storms)](#indra-deus-bow-of-storms)
@@ -762,7 +764,7 @@ This staff regains 1d4+2 charges each dawn. If the last charge is expended, roll
 ***
 
 ## Weapon of Slaughter
-**Weapon (any melee)**  
+**Weapon (Any melee)**  
 *T2*
 
 When you reduce a creature to 0 hit points with this weapon, you may use a bonus action to move up to your speed toward another hostile creature that you can see. Your next attack with this weapon has advantage.
@@ -770,11 +772,35 @@ When you reduce a creature to 0 hit points with this weapon, you may use a bonus
 ***
 
 ## Peacemaker
-**Weapon (any firearm)**  
+**Weapon (Any firearm)**  
 *T2*
 
-When you Attack a creature with this weapon and roll a 20 on the attack roll, that target must succeed on a DC 15 Wisdom saving throw or be charmed by you for 1 minute. If you or any of your companions damage the target, this effect ends.
+When you attack a creature with this weapon and roll a 20 on the attack roll, that target must succeed on a DC 15 Wisdom saving throw or be charmed by you for 1 minute. If you or any of your companions damage the target, this effect ends.
 
 In addition, when you reduce a creature to 0 hit points with an attack with this weapon, you can choose to knock the creature out. You can make this choice the instant damage is dealt. The creature falls unconscious and is stable.
+
+***
+
+## Breacher
+**Weapon (Any firearm) (requires attunement)**  
+*T3*
+
+This weapon gleams the color of an obsidian black, with three gems encrusted on the barrel: a sapphire, a diamond, and a ruby. This weapon has 5 charges. While holding this weapon, you can spend 2 charges to cast *knock.* In addition, when you hit with a ranged weapon attack using this weapon, you can use a bonus action to expend 2 charges to cast *shatter* (save DC 15) or 1 charge to cast *burning hands* (save DC 15). This weapon regains 1d4+1 expended charges daily at dawn.
+
+Ammunition fired from this weapon counts as adamantine for the purposes of attacking objects. 
+
+***
+
+## Corrosive Crackshot
+**Weapon (Light pistol, pistol, or scattergun) (requires attunement)**  
+*T2*
+
+This gun is tinted a dark sickly green, with the words "Jubilex sends his regards!" carved into the barrel in Abyssal.
+
+You gain a +1 bonus to attack and damage rolls made with this magic weapon. Ammunition fired from this weapon deals an extra 1d4 acid damage to targets you hit.
+
+When you attack a creature with this weapon and roll a 20 on the attack roll, an Ochre Jelly appears in the nearest unoccupied space on the ground next to the target. The Ochre Jelly is hostile to all creatures except you and spends its turns pursuing and attacking the nearest non-oozes to the best of its ability.
+
+The Ochre Jelly remains until it is destroyed or until 1 hour passes after which point it disappears. After this property has been used, another Ochre Jelly cannot be summoned again in this way until you take a short or long rest.
 
 ***
