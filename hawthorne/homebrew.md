@@ -265,7 +265,7 @@ When you take the Attack action with this weapon, you can forgo each additional 
 
 ## Bow of the Hunt
 **Weapon (Any bow) (requires attunement)**  
- *T3*
+ *T2*
  
 You gain a +1 bonus to attack and damage rolls made with this magic weapon.
  
