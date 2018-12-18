@@ -62,6 +62,7 @@ This is a list of items approved by the Hawthorne Guild Rules Team.
  - [Weapon of Song +1 / +2 / +3](#weapon-of-song--123)
  - [Staff of Life Overflowing](#staff-of-life-overflowing)
  - [Weapon of Slaughter](#weapon-of-slaughter)
+ - [Peacemaker](#peacemaker)
 ## Tier 3
  - [Interrogator's Dagger](#interrogators-dagger)
  - [Bow of the Hunt](#bow-of-the-hunt)
