@@ -769,7 +769,7 @@ When you reduce a creature to 0 hit points with this weapon, you may use a bonus
 
 ***
 
-## Peacemaker 
+## Peacemaker
 **Weapon (any firearm)**  
 *T2*
 
