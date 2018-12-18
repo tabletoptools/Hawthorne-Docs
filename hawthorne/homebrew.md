@@ -767,3 +767,13 @@ This staff regains 1d4+2 charges each dawn. If the last charge is expended, roll
 When you reduce a creature to 0 hit points with this weapon, you may use a bonus action to move up to your speed toward another hostile creature that you can see. Your next attack with this weapon has advantage.
 
 ***
+
+## Peacemaker 
+**Weapon (any firearm)**  
+*T2*
+
+When you Attack a creature with this weapon and roll a 20 on the attack roll, that target must succeed on a DC 15 Wisdom saving throw or be charmed by you for 1 minute. If you or any of your companions damage the target, this effect ends.
+
+In addition, when you reduce a creature to 0 hit points with an attack with this weapon, you can choose to knock the creature out. You can make this choice the instant damage is dealt. The creature falls unconscious and is stable.
+
+***
