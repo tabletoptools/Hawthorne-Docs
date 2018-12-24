@@ -787,7 +787,7 @@ In addition, when you reduce a creature to 0 hit points with an attack with this
 
 This weapon gleams the color of an obsidian black, with three gems encrusted on the barrel: a sapphire, a diamond, and a ruby. This weapon has 5 charges. While holding this weapon, you can spend 2 charges to cast *knock.* In addition, when you hit with a ranged weapon attack using this weapon, you can use a bonus action to expend 2 charges to cast *shatter* (save DC 15) or 1 charge to cast *burning hands* (save DC 15). This weapon regains 1d4+1 expended charges daily at dawn.
 
-Ammunition fired from this weapon counts as adamantine for the purposes of attacking objects. 
+Whenever you hit an object with ammunition fired from this weapon, that hit is a critical hit. 
 
 ***
 
@@ -795,7 +795,7 @@ Ammunition fired from this weapon counts as adamantine for the purposes of attac
 **Weapon (Light pistol, pistol, or scattergun) (requires attunement)**  
 *T2*
 
-This gun is tinted a dark sickly green, with the words "Jubilex sends his regards!" carved into the barrel in Abyssal.
+This gun is tinted a dark sickly green, with the words "Juiblex sends his regards!" carved into the barrel in Abyssal.
 
 You gain a +1 bonus to attack and damage rolls made with this magic weapon. Ammunition fired from this weapon deals an extra 1d4 acid damage to targets you hit.
 
