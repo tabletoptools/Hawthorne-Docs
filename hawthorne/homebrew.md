@@ -216,7 +216,7 @@ The dagger regains 1d4+1 charges at dawn.
 ***
 
 ## Ghostgrip Gauntlets
-**Wondrous (requires attunement)**  
+**Wondrous**  
 *T1*
 
 While you are attuned to and wearing this item, you ignore a creature's immunity to the grappled and restrained conditions while attempting or maintaining a grapple on the creature.
@@ -400,8 +400,7 @@ If you are at your hit point maximum you gain a +1 bonus to attack rolls and dam
 **Weapon (Net)**  
 *T1*
 
-A net with interwoven but loose ties, when thrown, it expands to fully engulf even the 
-largest creatures. This net ignores a creature's size.
+A net with interwoven but loose ties, when thrown, it expands to fully engulf even the largest creatures. This net ignores a creature's size.
 
 ***
 
