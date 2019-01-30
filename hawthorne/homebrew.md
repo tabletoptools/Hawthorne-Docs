@@ -601,7 +601,7 @@ While wearing this apron, you gain +1 to skill checks involving the harvesting a
 ***
 
 ## Fulguris
-**Warhammer (requires attunement by a good creature)**  
+**Warhammer (requires attunement)**  
 *T3*
 
 You have a +1 bonus to Attack and Damage Rolls made with this weapon.  
@@ -730,7 +730,7 @@ Additionally while under these effects, if you are a battlerager you double your
 
 This hand crossbow is made of a dark wood and black metal with a white design of spider webs all over the weapon.  
 
-A character may speak the command word as a bonus action to have the web design on the crossbow to fly off the weapon at a creature. The creature must succeed a DC 15 Dexterity saving throw or be restrained by webs. 
+A character may speak the command word as a bonus action to have the web design on the crossbow to fly off the weapon at a creature within 30 feet. The creature must succeed a DC 15 Dexterity saving throw or be restrained by webs. 
 
 A creature restrained by the webs can use its action to make a DC 15 Strength check. If it succeeds, it is no longer restrained.  Once used, this property can’t be used again until the next sunset.
 
