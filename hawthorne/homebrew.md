@@ -210,7 +210,7 @@ This appears to be a multicolored wool cap. When worn, you can occasionally hear
 *T3*
 
 You gain a +1 bonus to Attack and Damage Rolls made with this Magic Weapon.
-The dagger has 5 charges. While attuned to it, when you make a melee attack roll with the dagger, you may expend one charge. If you do, when the attack hits the targets takes 2d6 Psychic damage and makes a DC15 Wisdom saving throw or be stunned for one turn.
+The dagger has 5 charges. While attuned to it, when you make a melee attack roll with the dagger, you may expend one charge. If you do, when the attack hits the targets takes 2d6 Psychic damage and makes a DC15 Wisdom saving throw or be stunned until the end of your next turn.
 The dagger regains 1d4+1 charges at dawn.
 
 ***
@@ -219,7 +219,7 @@ The dagger regains 1d4+1 charges at dawn.
 **Wondrous**  
 *T1*
 
-While you are attuned to and wearing this item, you ignore a creature's immunity to the grappled and restrained conditions while attempting or maintaining a grapple on the creature.
+While you are wearing this item, you ignore a creature's immunity to the grappled and restrained conditions while attempting or maintaining a grapple on the creature.
 
 ***
 
