@@ -766,7 +766,7 @@ This staff regains 1d4+2 charges each dawn. If the last charge is expended, roll
 **Weapon (Any melee)**  
 *T2*
 
-When you reduce a creature to 0 hit points with this weapon, you can use a bonus action to move up to your speed toward another hostile creature that you can see. Your next attack with this weapon has advantage.
+When you reduce a creature to 0 hit points with this weapon, you can use a bonus action to move up to your speed toward another hostile creature that you can see. Until the end of your next turn, your next attack with this weapon has advantage.
 
 ***
 
