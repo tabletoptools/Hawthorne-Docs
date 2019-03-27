@@ -7,6 +7,8 @@ This is a list of items approved by the Hawthorne Guild Rules Team.
  - [Replenishing Aquarium Ball](#replenishing-aquarium-ball)
  - [Gambler's Shells](#gamblers-shells)
  - [Chef's Apron of Adventurous Palates](#chefs-apron-of-adventurous-palates)
+ - [Scribe's Pen](#scribes-pen)
+ - [Keycharm](#keycharm)
 ## Tier 1
  - [Diatryma Feather](#diatryma-feather)
  - [Charm Weapon](#charm-weapon)
@@ -64,6 +66,8 @@ This is a list of items approved by the Hawthorne Guild Rules Team.
  - [Weapon of Slaughter](#weapon-of-slaughter)
  - [Peacemaker](#peacemaker)
  - [Corrosive Crackshot](#corrosive-crackshot)
+ - [Bag of Bounty](#bag-of-bounty)
+ - [Inquisitive's Goggles](#inquisitives-goggles)
 ## Tier 3
  - [Interrogator's Dagger](#interrogators-dagger)
  - [Weapon of the Hunt](#weapon-of-the-hunt)
@@ -77,9 +81,11 @@ This is a list of items approved by the Hawthorne Guild Rules Team.
  - [Belt of Elvenkind](#belt-of-elvenkind)
  - [Belt of the Firbolg](#belt-of-the-firbolg)
  - [Breacher](#breacher)
+ - [Weapon of Blindsight](#weapon-of-blindsight)
 ## Tier 4
 ## Tier 3+
  - [Indra Deus (Weapon of Storms)](#indra-deus-weapon-of-storms)
+ - [Branch Shot](#branch-shot)
 
 ***
 
@@ -801,5 +807,73 @@ You gain a +1 bonus to attack and damage rolls made with this magic weapon. Ammu
 When you attack a creature with this weapon and roll a 20 on the attack roll, an Ochre Jelly appears in the nearest unoccupied space on the ground next to the target. The Ochre Jelly is hostile to all creatures except you and spends its turns pursuing and attacking the nearest non-oozes to the best of its ability.
 
 The Ochre Jelly remains until it is destroyed or until 1 hour passes after which point it disappears. After this property has been used, another Ochre Jelly cannot be summoned again in this way until you take a short or long rest.
+
+***
+
+## Bag of Bounty
+**Wondrous Item**  
+*T2*
+
+This sturdy leather sack is capable of conjuring food in accordance with your desire. You can use an action to cast create food and water, shaping the meal with your thoughts.
+
+You can create the standard bland fare without requiring any sort of check, but you can attempt to create finer food by making a Charisma check; if you're proficient with cook's utensils, add your proficiency bonus to this check or double your proficiency bonus if you would normally do so. A failed check results in a sour and squalid meal. 
+
+| Food Quality | Difficulty       |
+|--------------|------------------|
+| Poor         | No roll required |
+| Modest       | 10               |
+| Comfortable  | 13               |
+| Wealthy      | 15               |
+| Aristocratic | 18               |
+
+A bag of bounty can be used up to three times over the course of a day. After that, the bag can't be used again until the next dawn.
+
+***
+
+## Branch Shot
+**Weapon (any ranged weapon that lacks the thrown property) (requires attunement)**  
+*T3+*
+
+You have a +2 bonus to attack and damage rolls made with this weapon.
+
+This weapon has 5 charges. When you make an attack with this weapon, you can expend a charge and say the weapon’s command word, “Split,” to have a second magic piece of ammunition split from the original to hit a different target within 10 feet of the first target. This second shot uses the same attack roll and deals 1d8 + your Dexterity modifier + 2 force damage. This property can only be used once per turn. The weapon regains 1d4+1 charges daily at dawn.
+
+***
+
+## Inquisitive's Goggles
+**Wondrous item (requires attunement)**  
+*T2*
+
+The crystal lenses of these goggles shine a distinct amber color. While attuned to these goggles, you gain the following benefits:
+- You have advantage on Wisdom (Insight) checks against creatures that you can see.
+- When you examine an object, you can make a Wisdom (Perception) check to identify the aura of the last living creature to touch the object. The DC is 13 + the number of days since last contact occurred. If the check is successful, you learn the race of the creature and you gain advantage on any Wisdom (Perception) or Wisdom (Survival) checks made to find it. This benefit lasts until dawn seven days later, and you lose it if you should use it again on another object.
+
+***
+
+## Scribe's Pen
+**Wondrous item**  
+*T0*
+
+You can use this quill to write on any solid surface. You choose if this writing is visible (as traced by glowing mystical lines) or invisible. Writing invisible in this way can be detected and read via the use of detect magic, see invisibility, true seeing, or by applying heat to the surface. If you mark a living creature, the mark will fade within a week.
+
+***
+
+## Weapon of Blindsight
+**Weapon (any) (requires attunement)**  
+*T3*
+
+While you hold this weapon, you have blindsight out to a range of 30 feet.
+
+***
+
+## Keycharm
+**Wondrous item**  
+*T0*
+
+This simple object allows you to access and bypass the protective enchantments it is keyed to. Whenever a spellcaster casts a spell such as *arcane lock, alarm, demiplane, druid grove, forbiddance, glyph of warding, guards and wards, hallow, mighty fortress, mordenkainen’s faithful hound, mordenkainen’s magnificent mansion, symbol, temple of the gods,* or so forth, they can choose either at the time of casting or later to spend an hour and 50 GP worth of diamonds to key a simple object to the wards. This object can be any small object you can hold that weighs 5 pounds or less whose longest dimension is 3 feet or less.
+
+There are two types of keycharms: access keycharms and owner keycharms. An access keycharm allows the bearer to ignore some or all of the effects of the associated spell and grants access at the caster’s discretion. For example, a keycharm keyed to an *alarm* spell would allow the bearer to avoid triggering the alarm, but could also allow them to hear the alarm being triggered if the caster added that property, whereas a keycharm keyed to a *private sanctum* spell may allow the bearer to ignore some or all of the properties of it at the caster’s discretion. An owner keycharm by contrast is such that its bearer is recognized as the owner of the enchantment in question, allowing them to safely avoid any effects and deactivate or activate any associated effect at their discretion.
+
+An object imbued in this way can be similarly imbued for multiple spells or even by multiple casters to serve for any given case as a particular access keycharm or owner keycharm. 
 
 ***
