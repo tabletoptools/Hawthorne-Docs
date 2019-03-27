@@ -627,7 +627,7 @@ When you use an action to consume this dark and sour berry, you gain the ability
 ***
 
 ## Orca Weapon
-**Weapon (Any Ranged Weapon) (requires attunement)**  
+**Weapon (any ranged weapon that lacks the thrown property) (requires attunement)**  
 *T2*
 
 This weapon has been artfully crafted so that its appearance resembles that of a great undersea predator. You get a +1 bonus to attack and damage rolls you make using this weapon. If you use this weapon underwater, attacks with it do not automatically miss past its normal range, and you do not get disadvantage on attack rolls against creatures within its normal range. While attuned, if you do not already have a swim speed, you gain a swim speed of 20 feet.
