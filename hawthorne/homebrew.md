@@ -66,7 +66,7 @@ This is a list of items approved by the Hawthorne Guild Rules Team.
  - [Corrosive Crackshot](#corrosive-crackshot)
 ## Tier 3
  - [Interrogator's Dagger](#interrogators-dagger)
- - [Bow of the Hunt](#bow-of-the-hunt)
+ - [Weapon of the Hunt](#weapon-of-the-hunt)
  - [Sun Lantern](#sun-lantern)
  - [Shadow Mist](#shadow-mist)
  - [Phoenix Armor](#phoenix-armor)
@@ -183,7 +183,7 @@ While you are attuned to this item, whenever you would regain hit points from a 
 
 ## Runic Weapon (Template)
 **Weapon (Any) (requires attunement)**  
-*T2*
+*Legacy T2*
 
 An enchanted weapon of old, unlit runes line the sides of these weapons. While attuned to this weapon, whenever you cast a spell of first level or higher, this weapon gains a +1 bonus to attack and damage rolls until the end of your next turn, in addition the weapon sheds dim light in a 10-foot radius until the end of your next turn.
 
@@ -225,7 +225,7 @@ While you are wearing this item, you ignore a creature's immunity to the grapple
 
 ## Akrisae's War Mace
 **Weapon (Mace) (requires attunement by Cleric or Paladin)**  
-*T2*
+*Legacy T2*
 
 This weapon has a +1 bonus to attack and damage rolls.
 Once per day while you are attuned to this weapon, when you hit a creature with a melee weapon attack made using this weapon you can charge it with radiant energy. The next time you cast a spell that deals radiant damage you may re-roll any number of damage dice, if you do so you must use the new roll.
@@ -234,7 +234,7 @@ Once per day while you are attuned to this weapon, when you hit a creature with 
 
 ## Delver's Dirk
 **Weapon (Dagger) (requires attunement)**  
-*T1*
+*Legacy T1*
 
 While attuned to this dagger you always know how deep underground you are. In addition, When you hit a creature with this dagger its walking speed is reduced by 5 ft until the start of your next turn.
 
@@ -267,13 +267,13 @@ When you take the Attack action with this weapon, you can forgo each additional 
 
 ***
 
-## Bow of the Hunt
-**Weapon (Any bow) (requires attunement)**  
+## Weapon of the Hunt
+**Weapon (any ranged weapon that lacks the thrown property) (requires attunement)**  
  *T2*
  
 You gain a +1 bonus to attack and damage rolls made with this magic weapon.
  
-You can use an Action to target a creature that you can see within 300 feet of you. For the next hour, you deal an additional 2 damage when you hit a creature of that type, you have advantage on Wisdom (Survival) and Wisdom (Perception) checks to track creatures of that type, or Intelligence checks to recall information about them. If you already have the Favored Enemy or Greater Favoured Enemy feature, this property instead adds the targeted creature's type to your Favored Enemy list for the duration. Once this property of the bow has been used, it can't be used again until the next dawn.
+You can use an Action to target a creature that you can see within 300 feet of you. For the next hour, you deal an additional 2 damage when you hit a creature of that type, you have advantage on Wisdom (Survival) and Wisdom (Perception) checks to track creatures of that type, or Intelligence checks to recall information about them. If you already have the Favored Enemy or Greater Favoured Enemy feature, this property instead adds the targeted creature's type to your Favored Enemy list for the duration. Once this property of the weapon has been used, it can't be used again until the next dawn.
 
 ***
 
@@ -388,7 +388,7 @@ If you are at your hit point maximum you gain a +1 bonus to AC
 
 ***
 
-## Lloyd's Sword Ring
+## Sword Ring
 **Wondrous Item (requires attunement)**  
 *T2*
 
@@ -521,7 +521,7 @@ When you attack a creature with this magic weapon and roll a 20 on the attack ro
 
 ## Fortunate Shotgun
 **Weapon (Shotgun or Scattergun)**  
-*T2*
+*Legacy T2*
 
 This weapon can only be a shotgun or a scattergun. It counts as a magical weapon.
 On a critical hit with this firearm, you do not take damage from the Scatter property if you'd normally take damage from it.
@@ -530,7 +530,7 @@ On a critical hit with this firearm, you do not take damage from the Scatter pro
 
 ## Crusader's Armament
 **Weapon (Any Weapon) (requires attunement)**  
-*T2*
+*Legacy T2*
 
 While wielding this weapon you can use an action to cast Crusader's Mantle. After you have used this property it cannot be used again until the next dawn.
 
@@ -546,7 +546,7 @@ While you wear this ring difficult terrain doesn't cost you extra movement.
 
 ## Clover
 **Weapon (Any Pistol) (requires attunement)**  
-*T2*
+*Legacy T2*
 
 This shiny, golden gun has a green four leaf clover shaped rune engraved in it that seems to resonate with divination magic. You gain a +1 bonus to attack and damage rolls you make with this weapon. If you miss an attack roll with the last bullet in this pistol's chamber, it deals magical slashing damage to the target equal to your Dexterity modifier (minimum of 1) as the bullet grazes it.
 
@@ -725,12 +725,12 @@ Additionally while under these effects, if you are a battlerager you double your
 ***
 
 ## Spider's Prey
-**Hand Crossbow (requires attunement)**  
+**Weapon (any ranged weapon that lacks the thrown property) (requires attunement)**  
 *T2*
 
-This hand crossbow is made of a dark wood and black metal with a white design of spider webs all over the weapon.  
+This weapon is made of a dark wood and black metal with a white design of spider webs all over the weapon.  
 
-A character may speak the command word as a bonus action to have the web design on the crossbow to fly off the weapon at a creature within 30 feet. The creature must succeed a DC 15 Dexterity saving throw or be restrained by webs. 
+A character may speak the command word as a bonus action to have the web design on the weapon to fly off at a creature within 30 feet. The creature must succeed a DC 15 Dexterity saving throw or be restrained by webs. 
 
 A creature restrained by the webs can use its action to make a DC 15 Strength check. If it succeeds, it is no longer restrained.  Once used, this property can’t be used again until the next sunset.
 
@@ -771,7 +771,7 @@ When you reduce a creature to 0 hit points with this weapon, you can use a bonus
 ***
 
 ## Peacemaker
-**Weapon (Any firearm)**  
+**Weapon (any ranged weapon that lacks the thrown property)**  
 *T2*
 
 When you attack a creature with this weapon and roll a 20 on the attack roll, that target must succeed on a DC 15 Wisdom saving throw or be charmed by you for 1 minute. If you or any of your companions damage the target, this effect ends.
