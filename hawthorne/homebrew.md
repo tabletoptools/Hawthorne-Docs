@@ -79,7 +79,7 @@ This is a list of items approved by the Hawthorne Guild Rules Team.
  - [Breacher](#breacher)
 ## Tier 4
 ## Tier 3+
- - [Indra Deus (Bow of Storms)](#indra-deus-bow-of-storms)
+ - [Indra Deus (Weapon of Storms)](#indra-deus-weapon-of-storms)
 
 ***
 
@@ -452,17 +452,17 @@ If you are reduced to 0 hit points, you can use your reaction to instead drop to
 
 ***
 
-## Indra Deus (Bow of Storms)
-**Longbow (requires attunement)**  
+## Indra Deus (Weapon of Storms)
+**Weapon (any ranged weapon that lacks the thrown property) (requires attunement)**  
 *T3+*
 
 You have a +2 bonus to Attack and Damage Rolls made with this weapon.
 
-This bow wrought of black oak runs with blue streaks of arcane magic. Blacker than a winter storm, the lines of magic flare as azure lightning, burning the eyes. When drawn, the string crackles with lightning, which trails every arrow when released.
+This weapon wrought of black oak runs with blue streaks of arcane magic. Blacker than a winter storm, the lines of magic flare as azure lightning, burning the eyes. When readied, the weapon crackles with lightning, which trails every shot when released.
 
-Each arrow fired from this bow deals an extra 1d6 lightning damage to any target it hits. 
+Each piece of ammunition fired from this bow deals an extra 1d6 lightning damage to any target it hits. 
 
-When you fire the bow and speak its Command Word, the arrow transforms into a bolt of lightning, forming a line 5 feet wide that extends out from you to a target within 120 feet. Each creature in the line excluding you and the target must make a DC 15 Dexterity saving throw, taking 5d6 lightning damage on a failed save, and half as much damage on a successful one. Make a ranged weapon Attack against the target. On a hit, the target takes damage from the arrow plus 5d6 lightning damage. This property can't be used again until the next dawn.
+When you fire the weapon and speak its Command Word, the ammunition transforms into a bolt of lightning, forming a line 5 feet wide that extends out from you to a target within 120 feet. Each creature in the line excluding you and the target must make a DC 15 Dexterity saving throw, taking 5d6 lightning damage on a failed save, and half as much damage on a successful one. Make a ranged weapon Attack against the target. On a hit, the target takes damage from the ammunition plus 5d6 lightning damage. This property can't be used again until the next dawn.
 
 ***
 
