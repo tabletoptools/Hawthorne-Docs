@@ -791,10 +791,10 @@ Whenever you hit an object with ammunition fired from this weapon, that hit is a
 ***
 
 ## Corrosive Crackshot
-**Weapon (Light pistol, pistol, or scattergun) (requires attunement)**  
+**Weapon (any ranged weapon that lacks the thrown property) (requires attunement)**  
 *T2*
 
-This gun is tinted a dark sickly green, with the words "Juiblex sends his regards!" carved into the barrel in Abyssal.
+This weapon is tinted a dark sickly green, with the words "Juiblex sends his regards!" carved into the surface in Abyssal.
 
 You gain a +1 bonus to attack and damage rolls made with this magic weapon. Ammunition fired from this weapon deals an extra 1d4 acid damage to targets you hit.
 
