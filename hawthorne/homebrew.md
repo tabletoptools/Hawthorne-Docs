@@ -754,11 +754,11 @@ This weapon can also be used as a bardic focus while attuned, as if orchestratin
 **Staff (requires attunement by a spellcaster)**  
 *T2*
 
-This staff has 6 charges. While holding this staff and casting a spell that restores Hit Points to a single target, you may use your reaction to spend a charge to add an extra 1d6 Hit Points of healing to the target of the spell.
+This staff has 7 charges. While holding this staff and casting a spell that restores Hit Points to a single target, you may use your reaction to spend a charge to add an extra 1d6 + your spellcasting ability modifier of Hit Points of healing to the target of the spell.
 
-While holding this staff and casting a spell that restores Hit Points to multiple targets, you may use your reaction to spend 2 charges to add an extra 1d4 Hit Points of healing to each target of that spell.
+While holding this staff and casting a spell that restores Hit Points to multiple targets, you may use your reaction to spend 2 charges to add an extra 1d4 + your spellcasting ability modifier of Hit Points of healing to each target of that spell.
 
-This staff regains 1d4+2 charges each dawn. If the last charge is expended, roll a d20. One a 1, the staff disappears into motes of light, destroying it.
+This staff regains 1d6+1 charges each dawn. If the last charge is expended, roll a d20. One a 1, the staff disappears into motes of light, destroying it.
 
 ***
 
