@@ -496,10 +496,10 @@ This small book is bound in hammered silver and engraved with the continents of 
 ***
 
 ## Dragonbreath
-**Weapon (Scattergun)**  
+**Weapon (scattergun or shotgun)**  
 *T2*
 
-A fierce, draconic design adorns this gun, and it glows with the power like the great wyrm whose likeness it was made to resemble. You gain a +1 bonus to attack and damage rolls you make using this weapon. This weapon’s scatter damage deals a different type other than bludgeoning that is dependent on the dragon it was modeled after.
+A fierce, draconic design adorns this gun, and it glows with the power like the great wyrm whose likeness it was made to resemble. You gain a +1 bonus to attack and damage rolls you make using this weapon. This weapon’s damage deals a different type other than bludgeoning that is dependent on the dragon it was modeled after.
 
 | Dragon Color       | Damage Type |
 |--------------------|-------------|
