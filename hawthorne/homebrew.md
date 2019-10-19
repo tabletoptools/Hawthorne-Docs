@@ -117,7 +117,7 @@ You may use an action to blow on this feather sending a large cloud of feathers 
 **Weapon (Any)**  
 *T2*
 
-This bejeweled charm in the shape of a weapon can be fashionably worn as jewelry. While holding the charm you may speak the command word to grow the charm to a full size version of the weapon. While holding the charm you may  use a bonus action to return the weapons to normal size. While they are jewelry they detect as non-magical to  the  Detect Magic spell.
+This bejeweled charm in the shape of a weapon can be fashionably worn as jewelry. While holding the charm, as a bonus action, you can speak the command word to grow the charm to a full size version of the weapon or to return the weapon to normal size. While in its jewelry form, it appears as non-magical to the *detect magic* spell.
 
 ***
 
