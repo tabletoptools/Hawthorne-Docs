@@ -69,6 +69,7 @@ This is a list of items approved by the Hawthorne Guild Rules Team.
  - [Bag of Bounty](#bag-of-bounty)
  - [Inquisitive's Goggles](#inquisitives-goggles)
 ## Tier 3
+ - [Indra Deus](#indra-deus)
  - [Interrogator's Dagger](#interrogators-dagger)
  - [Weapon of the Hunt](#weapon-of-the-hunt)
  - [Sun Lantern](#sun-lantern)
@@ -84,7 +85,6 @@ This is a list of items approved by the Hawthorne Guild Rules Team.
  - [Weapon of Blindsight](#weapon-of-blindsight)
 ## Tier 4
 ## Tier 3+
- - [Indra Deus (Weapon of Storms)](#indra-deus-weapon-of-storms)
  - [Branch Shot](#branch-shot)
 
 ***
@@ -458,7 +458,7 @@ If you are reduced to 0 hit points, you can use your reaction to instead drop to
 
 ***
 
-## Indra Deus (Weapon of Storms)
+## Indra Deus
 **Weapon (any ranged weapon that lacks the thrown property) (requires attunement)**  
 *T3+*
 
