@@ -611,7 +611,7 @@ While wearing this apron, you gain +1 to skill checks involving the harvesting a
 *T3*
 
 You have a +1 bonus to Attack and Damage Rolls made with this weapon.  
-When you hit with an Attack using this magic hammer, the target takes an extra 1d8 lightning damage.  
+When you hit with an Attack using this magic hammer, the target takes an extra 1d6 lightning damage.  
 *Thrown Weapon*: This weapon has the Thrown property, with a normal range of 20 feet and a long range of 60 feet. Each time you throw the weapon, it flies back to your hand after the Attack. If you don't have a hand free, the weapon lands at your feet.
 
 ***
